@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Sabine! 👋
 
-<!--
-**sabine-mejia/sabine-mejia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science graduate student at Penn pursuing my MSE in CIS, with experience in embedded systems, full-stack development, and machine learning.
 
-Here are some ideas to get you started:
+## 🔭 Currently Working On
+- VVI Pacemaker implementation in C++ (life-critical medical device)
+- Machine learning for election prediction
+- Computational biology research
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+**Languages:** Python, Java, C++, JavaScript, SQL, C, R, HTML/CSS  
+**Frameworks:** Node.js, MongoDB, NumPy, scikit-learn, Matplotlib  
+**Tools:** Git, Arduino, Figma, VS Code
+
+## 💼 Experience
+- Digital Scholarship Intern @ Haverford College
+- Haverford Incubator Program (HIP) Fellow
+
+## 📚 Education
+- **MSE Computer & Information Science** @ University of Pennsylvania (Expected Dec 2026)
+- **BS Computer Science** @ Haverford College (May 2025) | GPA: 3.7/4.0
+
+## 📫 Get in Touch
+- LinkedIn: [linkedin.com/in/sabine-mejia](https://linkedin.com/in/sabine-mejia)
+- Email: smejia@seas.upenn.edu
