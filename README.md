@@ -2,6 +2,11 @@
 
 I'm a Computer Science graduate student at Penn pursuing my MSE in CIS, with experience in embedded systems, full-stack development, and machine learning.
 
+## 🔭 Projects & Work
+- VVI Pacemaker implementation in C++ (life-critical medical device)
+- Machine learning for election prediction
+- Machine learning for Computational biology
+
 ## 🛠️ Tech Stack
 **Languages:** Python, Java, C++, JavaScript, SQL, C, R, HTML/CSS  
 **Frameworks:** Node.js, MongoDB, NumPy, scikit-learn, Matplotlib  
