@@ -1,6 +1,6 @@
 # Hi, I'm Sabine! 👋
 
-I'm a Computer Science graduate student at Penn pursuing my MSE in CIS.
+I'm a Computer Science graduate student at Penn pursuing my MSE in CIS. My interests include Human-Computer Interaction and how tech can be applied to healthcare and education.
 ## 🔭 Projects & Work
 - Machine learning for Computational biology
 
