@@ -1,7 +1,6 @@
 # Hi, I'm Sabine! 👋
 
-I'm a Computer Science graduate student at Penn pursuing my MSE in CIS, with experience in embedded systems, full-stack development, and machine learning.
-
+I'm a Computer Science graduate student at Penn pursuing my MSE in CIS.
 ## 🔭 Projects & Work
 - Machine learning for Computational biology
 
